@@ -90,7 +90,7 @@ function buildCharts(sample) {
     var barLayout = {
       title: "Top 10 Bacterial Species (OTUs)",
       margin: {
-        l: 150,
+        l: 0,
         t: 0,
       }
     };
