@@ -91,8 +91,8 @@ function buildCharts(sample) {
     var barLayout = {
       title: "Top 10 Bacterial Species (OTUs)",
       margin: {
-        l: 0,
-        t: 0,
+        t: 50,
+        l: 175
       }
     };
     // 10. Use Plotly to plot the data with the layout. 
